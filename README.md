@@ -1,5 +1,3 @@
-Certainly! I'll explain the selected code, which represents a React Native calendar application:
-
 1. Imports:
    - The code imports necessary components from React and React Native.
    - It also imports the Calendar component from 'react-native-calendars'.
